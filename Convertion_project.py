@@ -1,4 +1,4 @@
-# How many seconds there are in 20 days
+# How many hrs,minutes in days as you enter
 
 
 def days_to_units(num_of_days, conversion_unit):
